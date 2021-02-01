@@ -23,6 +23,7 @@
 #include <cstdlib>
 #include <cstring>
 #include <ctime>
+#include <tchar.h>
 
 #ifdef __cplusplus// C++
 #include <ccomplex>
